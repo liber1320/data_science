@@ -1,2 +1,2 @@
-# machine_learning_portfolio
+# machine learning 
 Repository contains machine learning projects
