@@ -2,11 +2,11 @@
 Repository contains machine learning projects.
 
 Classic machine learning:
-* Earning predictions [show](earn_predictions.ipynb) - classification task using RandomForestClassifier, XGBClassifier
-* Credit card fraud classification [show](credit_card_fraud.ipynb) - classification task using RandomForestClassifier, LogisticRegression, DecisionTreeClassifier
-* Imdb movies [show](imdb_movies.ipynb) - visualization, classification task using KMeans, PCA, MCA, t-SNE, RandomForestClassifier, LogisticRegression
-* Airline time delay predictions [show](airline_delay_predictions.ipynb) - regression task using XGBRegressor
+* Earning predictions - classification task using RandomForestClassifier, XGBClassifier [show](earn_predictions.ipynb) 
+* Credit card fraud classification - classification task using RandomForestClassifier, LogisticRegression, DecisionTreeClassifier [show](credit_card_fraud.ipynb) 
+* Imdb movies - visualization, classification task using KMeans, PCA, MCA, t-SNE, RandomForestClassifier, LogisticRegression [show](imdb_movies.ipynb)
+* Airline time delay predictions - regression task using XGBRegressor [show](airline_delay_predictions.ipynb) 
 
 Deep learning:
-* Earning predictions [show](earn_predictions_dnn.ipynb) - classification task using deep neural network using Tensorflow
-* German traffic sign recognition [show](traffic_sign_recognition.ipynb) - classification task using convolutional neural network implemented in Keras and Tensorflow
+* Earning predictions - classification task using deep neural network using Tensorflow [show](earn_predictions_dnn.ipynb) 
+* German traffic sign recognition - classification task using convolutional neural network implemented in Keras and Tensorflow [show](traffic_sign_recognition.ipynb) 
