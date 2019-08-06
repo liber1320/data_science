@@ -10,4 +10,4 @@ Classic machine learning:
 Deep learning:
 * Earning predictions - classification using deep neural network developed in Tensorflow [show](earn_predictions_dnn.ipynb) 
 * German traffic sign recognition - classification using convolutional neural network implemented in Keras and Tensorflow [show](traffic_sign_recognition.ipynb) 
-* Flower class prediction - transfer learning using Inception model implemented in Tensorflow [show](flower_transfer_learning.ipynb) 
+* Flower class prediction - transfer learning using Inception model implemented in Tensorflow [show](flowers_transfer_learning.ipynb) 
