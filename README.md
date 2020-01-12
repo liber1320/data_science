@@ -5,7 +5,7 @@ Classic machine learning:
 * Credit card fraud - classification using RandomForestClassifier, LogisticRegression [show](credit_card_fraud.ipynb) 
 * Imdb movies - visualization, clustering using KMeans, PCA, MCA, t-SNE, RandomForestClassifier, LogisticRegression [show](imdb_movies.ipynb)
 * Airline time delay - regression using XGBRegressor [show](airline_delay_predictions.ipynb) 
-* Earning predictions - classification using RandomForestClassifier, XGBClassifier [show](earn_predictions.ipynb) 
+* Earning predictions - classification using RandomForestClassifier, XGBClassifier [show](earn_predictions_kaggle.ipynb) 
 * House prices - regression using GradientBoostingRegressor, XGBRegressor, ElasticNet [show](house_prices.ipynb) 
 
 Deep learning:
