@@ -7,6 +7,7 @@ Classic machine learning:
 * Airline time delay - regression using XGBRegressor [show](airline_delay_predictions.ipynb) 
 * Earning predictions - classification using RandomForestClassifier, XGBClassifier [show](earn_predictions_kaggle.ipynb) 
 * House prices - regression using GradientBoostingRegressor, XGBRegressor, ElasticNet [show](house_prices.ipynb) 
+* Campaign targetting - classification task [show](Predictive task marketing - EDA.ipynb) 
 
 Deep learning:
 * Earning predictions - classification using deep neural network developed in Tensorflow [show](earn_predictions_dnn.ipynb) 
