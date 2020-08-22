@@ -15,4 +15,4 @@ Deep learning:
 * Flower class prediction - transfer learning using Inception model implemented in Tensorflow [show](flowers_transfer_learning.ipynb) 
 
 Data engineering:
-* Github events - aggregation of Github events prepared using Python and Spark [show](github_agg_pipeline.py) 
+* Github events - data processing and analysis using various approaches [show](https://github.com/liber1320/github_events/blob/master/README.md) 
