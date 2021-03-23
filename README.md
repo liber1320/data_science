@@ -1,5 +1,4 @@
-# My projects
-Repository contains data science projects.
+# Repository contains data science projects
 
 Machine learning:
 * Credit card fraud - classification using RandomForestClassifier, LogisticRegression [show](credit_card_fraud.ipynb) 
@@ -13,6 +12,3 @@ Deep learning:
 * Earning predictions - classification using deep neural network developed in Tensorflow [show](earn_predictions_dnn.ipynb) 
 * German traffic sign recognition - classification using convolutional neural network implemented in Keras and Tensorflow [show](traffic_sign_recognition.ipynb) 
 * Flower class prediction - transfer learning using Inception model implemented in Tensorflow [show](flowers_transfer_learning.ipynb) 
-
-Data engineering:
-* Github events - data processing and analysis using various approaches [show](https://github.com/liber1320/github_events/blob/master/README.md) 
