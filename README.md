@@ -1,14 +1,14 @@
-# Repository contains data science projects
+# Repository containing data science projects
 
 Machine learning:
-* Credit card fraud - classification using RandomForestClassifier, LogisticRegression [show](credit_card_fraud.ipynb) 
-* Imdb movies - visualization, clustering using KMeans, PCA, MCA, t-SNE, RandomForestClassifier, LogisticRegression [show](imdb_movies.ipynb)
-* Airline time delay - regression using XGBRegressor [show](airline_delay_predictions.ipynb) 
-* Earning predictions - classification using RandomForestClassifier, XGBClassifier [show](earn_predictions_kaggle.ipynb) 
-* House prices - regression using GradientBoostingRegressor, XGBRegressor, ElasticNet [show](house_prices.ipynb) 
-* Campaign targetting - classification task [show](Predictive_task_marketing_EDA.ipynb) 
+* [Credit card fraud](credit_card_fraud.ipynb)  - classification using RandomForestClassifier, LogisticRegression 
+* [Imdb movies](imdb_movies.ipynb) - visualization, clustering using KMeans, PCA, MCA, t-SNE
+* [Airline time delay](airline_delay_predictions.ipynb) - regression using XGBRegressor
+* [Earning predictions](earn_predictions_kaggle.ipynb) - classification using RandomForestClassifier, XGBClassifier
+* [House prices](house_prices.ipynb)  - regression using GradientBoostingRegressor, XGBRegressor, ElasticNet
+* [Campaign targetting](Predictive_task_marketing_EDA.ipynb)  - classification task 
 
 Deep learning:
-* Earning predictions - classification using deep neural network developed in Tensorflow [show](earn_predictions_dnn.ipynb) 
-* German traffic sign recognition - classification using convolutional neural network implemented in Keras and Tensorflow [show](traffic_sign_recognition.ipynb) 
-* Flower class prediction - transfer learning using Inception model implemented in Tensorflow [show](flowers_transfer_learning.ipynb) 
+* [Earning predictions](earn_predictions_dnn.ipynb)  - classification using deep neural network developed in Tensorflow 
+* [German traffic sign recognition](traffic_sign_recognition.ipynb) - classification using convolutional neural network implemented in Keras and Tensorflow 
+* [Flower class prediction](flowers_transfer_learning.ipynb) - transfer learning using Inception model implemented in Tensorflow 
